@@ -7,7 +7,7 @@ import Dashboard from './dashboard';
 // Includes a header, sidebar, and main content area
 const MainLayout: React.FC = () => {
   return (
-    <div className="min-h-screen min-w-screen bg-[#0E0D0D] text-white">
+    <div className="min-h-screen bg-[#0E0D0D] text-white">
       {/* Top navigation bar */}
       <header className="h-10 sm:h-20">
         <Header />

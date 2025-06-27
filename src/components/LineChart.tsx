@@ -195,7 +195,7 @@ const LineChart = () => {
 
   return (
     // Chart container
-    <div className="mt-5 w-full max-w-3xl rounded-md border border-[#5A5A5A] bg-[#242424] p-6 pl-0 text-white shadow-md">
+    <div className="mt-6 w-full max-w-3xl rounded-md border border-[#5A5A5A] bg-[#242424] p-6 pl-0 text-white shadow-md">
       {/* Dropdown row: margin-bottom, flex, right-aligned */}
       <div className="mb-4 flex justify-end">
         {/* Dropdown to switch metrics*/}
